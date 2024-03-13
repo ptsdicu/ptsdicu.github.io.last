@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Accecwan
+title: Haoyu Zhao
 
 # Name pronunciation (optional)
-name_pronunciation: 程琬茵
+name_pronunciation: 赵浩羽
 
  Display name
-title: Accecwan
+title: Haoyu Zhao
 
 # Name pronunciation (optional)
-name_pronunciation: 程琬茵
+name_pronunciation: 赵浩羽
 
 # Fu
 
 # Full name (for SEO)
-first_name: Wanyin
-last_name: Cheng
+first_name: Haoyu
+last_name: Zhao
 
 # Status emoji
 status:
-  icon: 😺
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,20 +33,19 @@ organizations:
     url: https://www.qfnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome to Accecwan's individual resume.
+bio: 此处是一段简短的个人简介，在帖子末尾的用户资料中显示
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - 在About小部件中显示兴趣
   - Computational Linguistics
   - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: Operating Systems:Principles and Practice
-      institution: bilibili University
-      year: 2024-04
+    - course: No.1 Middle School of Linyi shandong
+      year: 2016-2020
     - course: Database System Concepts:7th Edition
       institution: Qufu Normal University
       year: 2024-04
@@ -115,7 +114,7 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
+  - icon: 此处连接到A4简介
     icon_pack: ai
     link: uploads/resume.pdf
 
@@ -123,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-This is a personal page I made following the tutorial - Recovery, which helps to show personal details, education and interests.
+这段话将显示在顶部的的个人介绍中
 {style="text-align: justify;"}
