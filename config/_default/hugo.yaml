@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Accecwan's resume # Website name
+title: Haoyu Zhao # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################

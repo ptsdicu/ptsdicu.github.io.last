@@ -44,14 +44,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: No.1 Middle School of Linyi shandong
-      year: 2016-2020
-    - course: Database System Concepts:7th Edition
+    - course: Computer Technology,Master's Degree
+      institution: China University of Petroleum (East China)
+      year: 2024-
+    - course: Software Engineering,Bachelor
       institution: Qufu Normal University
-      year: 2024-04
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2023
+      year: 2020-2024
+    - course: 高中,这个怎么写
+      institution: No.1 Middle School of Linyi shandong
+      year: 2016-2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
