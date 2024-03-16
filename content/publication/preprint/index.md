@@ -1,12 +1,17 @@
 ---
-title: "An example preprint / working paper"
+title: "Anaysis and Policy Determination of Resource Allocation in National Reserve"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Zimu You
+- Yanzhen Guo
+- Ziqi Gong
+- Yiming Qin
+- Haoyu Zhao
+- Shudan Zheng
+date: "2023-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,10 +22,12 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Research Focus: Utilizing the ARIMA time series model for data forecasting, this study also employs the second-order differencing method to evaluate the effects before and after the implementation of specific policies. Additionally, the project involves the use of differential equations to describe population growth trends, incorporating real-world scenarios to enhance the visualization of population changes pre- and post-policy implementation.
+
+Personal Contribution: Conducted extensive review of English literature to identify research directions and gather relevant data; participated in the drafting and revision of the paper.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
 - Source Themes
@@ -41,7 +48,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://ieeexplore.ieee.org/document/10390120)'
   focal_point: ""
   preview_only: false
 
