@@ -37,9 +37,11 @@ bio: 此处是一段简短的个人简介，在帖子末尾的用户资料中显
 
 # Interests to show in About widget
 interests:
-  - 在About小部件中显示兴趣
-  - Computational Linguistics
-  - Information Retrieval
+  - Vision
+  - Multimodal Analysis
+  - 3D mesh
+  - Theoretical Computing
+  - Semantic Segmentation
 
 # Education to show in About widget
 education:
@@ -59,21 +61,27 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ''
-        percent: 100
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+      - name: Proficient in theoretical derivation and proof
         description: ''
         percent: 90
+        icon: python
+        icon_pack: fab
+      - name: solid foundation in academic writing
+        description: ''
+        percent: 84
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: keen interest in interdisciplinary fields
         description: ''
-        percent: 100
+        percent: 97
         icon: database
         icon_pack: fas
+      - name: adept at integrating knowledge across disciplines
+        description: ''
+        percent: 88
+        icon: database
+        icon_pack: fas
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
